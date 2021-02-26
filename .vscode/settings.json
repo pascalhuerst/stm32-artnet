@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "private.h": "c",
+        "packets.h": "c",
+        "in.h": "c",
+        "inet.h": "c",
+        "artnet.h": "c"
+    }
+}
